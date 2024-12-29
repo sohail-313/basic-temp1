@@ -1,0 +1,66 @@
+{
+    "heroData": {
+      "title": "Welcome to Nasr International School",
+      "description": "Where the future begins, we are a school that is dedicated to providing the best education for your child.",
+      "imageUrl": "/images/1200x675.svg"
+    },
+    "whyUsData": {
+      "title": "Why Us",
+      "description": "Nasr International School is a leading educational institution in the region. We offer a wide range of courses and programs to help students achieve their academic goals. Our faculty is dedicated to providing students with the knowledge and skills they need to succeed in their chosen field. We also offer a variety of extracurricular activities to help students develop their talents and interests. Our campus is equipped with state-of-the-art facilities to provide students with a comfortable and supportive learning environment. We are committed to helping students reach their full potential and achieve their dreams.",
+      "imageUrl": "/images/400x400.svg",
+      "vision": "Our vision is to provide students with a high-quality education that prepares them for success in their chosen field. We are committed to helping students develop the knowledge and skills they need to achieve their academic goals. Our faculty is dedicated to providing students with a supportive learning environment that encourages them to reach their full potential.",
+      "staff": "Our faculty is made up of experienced professionals who are experts in their field. They are dedicated to providing students with a high-quality education that prepares them for success in their chosen field. Our faculty is committed to helping students develop the knowledge and skills they need to achieve their academic goals."
+    },
+    "aboutUsData": {
+      "title": "About Us",
+      "description": "Nasr International School is a leading educational institution in the region. We offer a wide range of courses and programs to help students achieve their academic goals. Our faculty is dedicated to providing students with the knowledge and skills they need to succeed in their chosen field. We also offer a variety of extracurricular activities to help students develop their talents and interests. Our campus is equipped with state-of-the-art facilities to provide students with a comfortable and supportive learning environment. We are committed to helping students reach their full potential and achieve their dreams.",
+      "imageUrl": "/images/1200x675.svg",
+      "vision": "Our vision is to provide students with a high-quality education that prepares them for success in their chosen field. We are committed to helping students develop the knowledge and skills they need to achieve their academic goals. Our faculty is dedicated to providing students with a supportive learning environment that encourages them to reach their full potential.",
+      "staff": "Our faculty is made up of experienced professionals who are experts in their field. They are dedicated to providing students with a high-quality education that prepares them for success in their chosen field. Our faculty is committed to helping students develop the knowledge and skills they need to achieve their academic goals."
+    },
+    "admissionsData": {
+      "imageUrl": "/images/1200x675.svg",
+      "title": "Admission Open for the Academic Year 2024-2025",
+      "description": "Please contact us for more information.",
+      "guidelines": [
+        "Leave space after each complete word while filling up the admission form.",
+        "Admission form must be filled as per the Aadhar Card.",
+        "Incomplete applications will be rejected.",
+        "Information regarding name and date of birth submitted during admission will not be subjected to change at any time.",
+        "Residential proof and identity proof must match the details filled in the form.",
+        "Particulars provided in the admission form will be printed on the ID card. Ensure all details are accurate before submission.",
+        "The applicant will be held responsible for any mistakes in the admission form.",
+        "Previously submitted admission forms will not be carried over. A new application is required for each academic year."
+      ]
+    },
+    "contactData": {
+      "imageUrl": "/images/1200x675.svg",
+      "contactDetails": [
+        {
+          "title": "Address",
+          "description": "Survey No. 106/107, Serilingampally, Hyderabad, Telangana, India 500 019"
+        },
+        {
+          "title": "Phone",
+          "description": "+91 40 2303 1100",
+          "link": "tel:+914023031100"
+        },
+        {
+          "title": "Email",
+          "description": "nasr@gmail.com",
+          "link": "mailto:nasr@gmail.com"
+        }
+      ]
+    },
+    "galleryData": [
+      { "src": "/images/400x400.svg", "description": "Students in a classroom" },
+      { "src": "/images/400x400.svg", "description": "Sports day celebration" },
+      { "src": "/images/400x400.svg", "description": "School library" },
+      { "src": "/images/400x400.svg", "description": "Cultural festival" },
+      { "src": "/images/400x400.svg", "description": "Science exhibition" },
+      { "src": "/images/400x400.svg", "description": "Annual day event" },
+      { "src": "/images/400x400.svg", "description": "Art competition" },
+      { "src": "/images/400x400.svg", "description": "School assembly" }
+    ]
+  }
+  
