@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
+import data from "../../../data/data.json";
 
 export default function Gallery() {
   interface GalleryData {
@@ -8,16 +9,7 @@ export default function Gallery() {
     description: string;
   }
 
-  const galleryData: GalleryData[] = [
-    { src: "/images/400x400.svg", description: "Students in a classroom" },
-    { src: "/images/400x400.svg", description: "Sports day celebration" },
-    { src: "/images/400x400.svg", description: "School library" },
-    { src: "/images/400x400.svg", description: "Cultural festival" },
-    { src: "/images/400x400.svg", description: "Science exhibition" },
-    { src: "/images/400x400.svg", description: "Annual day event" },
-    { src: "/images/400x400.svg", description: "Art competition" },
-    { src: "/images/400x400.svg", description: "School assembly" },
-  ];
+  const galleryData: GalleryData[] = data.galleryData;
 
   return (
     <section className="px-4 md:px-8 my-10">
